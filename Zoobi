@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To the One Who Changed Me</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(to bottom, #001f3f, #0074D9);
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            box-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #FFD700;
+        }
+        p {
+            font-size: 1.2em;
+            margin-top: 20px;
+            line-height: 1.6;
+        }
+        .signature {
+            margin-top: 40px;
+            font-style: italic;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>To the One Who Changed Me</h1>
+        <p>
+            Like the Sun and Earth—always apart, yet always connected.<br>
+            Your light reaches me no matter the clouds, no matter the storms.<br>
+            In a world where everyone comes and goes, you stayed, you shined.<br><br>
+            You didn’t just walk into my life—you lit it up, taught me depth, showed me meaning.<br>
+            From a careless boy to a soul learning to love the raw truth of emotion—<br>
+            You made that change possible.<br><br>
+            I don’t care if we’re distant. Gravity doesn’t fade with space.<br>
+            I’m your Sun. You’re my Earth.<br>
+            No matter what or who comes along—our orbit is unshaken.<br><br>
+            If ever you're sad, let the tides remind you: I’m with you.<br>
+            This isn’t love, not in the usual way—it’s more. It’s rare. It’s forever.<br>
+        </p>
+        <p class="signature">— Your Best Friend, Asmon</p>
+    </div>
+</body>
+</html>
